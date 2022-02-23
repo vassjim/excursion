@@ -29,3 +29,10 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+
+footer {
+    text-align: right;
+    color: grey;
+}
